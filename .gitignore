@@ -1,5 +1,4 @@
-investigate-a-dataset-template.ipynb
-Project 2 - Investigate a Dataset.zip
-Rubric-Investigate A Dataset.pdf
+*.zip
+*.pdf
 .ipynb_checkpoints/*
-dap-cheat-sheet.png
+*.png
